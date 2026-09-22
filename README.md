@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔗 Links
+
+- [敏宝喂养管理工具](https://yy520-xx.github.io/minbao-seo/) — 敏宝工具官网
